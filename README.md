@@ -1,3 +1,4 @@
+````markdown
 # 🛍️ E-Commerce Data Analysis
 
 ### 📊 Personal Data Analytics Project — Megha Rajeev
@@ -100,7 +101,7 @@ The project performs the following steps:
 | Metric                      | Example Visualization                             |
 | --------------------------- | ------------------------------------------------- |
 | **Customer Count by State** | ![Customers by State](Customers%20by%20State.png) |
-| **Orders per Month (2018)** | ![Orders per Month](Orders%20per%20Month.png)     |
+| **Orders per Month (2018)** | ![Orders by Month](Orders%20per%20Month.png)      |
 | **Revenue by Category**     | ![Category Sales](Category%20Sales.png)           |
 
 ---
@@ -124,3 +125,9 @@ The project performs the following steps:
 ---
 
 ⭐ *If you found this project insightful, please give it a star on GitHub!* ⭐
+
+```
+
+---
+
+```
