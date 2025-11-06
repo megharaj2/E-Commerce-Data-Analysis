@@ -50,16 +50,6 @@ The project performs the following steps:
 
 ---
 
-Exactly ✅ — you can **copy and paste** the version I gave above *directly* into your `README.md` on GitHub.
-
-To summarize clearly:
-
-1. Go to your repo → open **README.md** → click **✏️ Edit**.
-2. Scroll to the **“How to Run the Project”** section.
-3. Delete the old one and **paste this corrected version** 👇
-
----
-
 ````markdown
 ## ⚙️ How to Run the Project
 
