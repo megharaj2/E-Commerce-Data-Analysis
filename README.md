@@ -1,6 +1,3 @@
----
-
-````markdown
 # 🛍️ E-Commerce Data Analysis
 
 ### 📊 Personal Data Analytics Project — Megha Rajeev
