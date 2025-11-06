@@ -50,13 +50,24 @@ The project performs the following steps:
 
 ---
 
+Exactly ✅ — you can **copy and paste** the version I gave above *directly* into your `README.md` on GitHub.
+
+To summarize clearly:
+
+1. Go to your repo → open **README.md** → click **✏️ Edit**.
+2. Scroll to the **“How to Run the Project”** section.
+3. Delete the old one and **paste this corrected version** 👇
+
+---
+
+````markdown
 ## ⚙️ How to Run the Project
 
 1. **Clone this repository:**
    ```bash
    git clone https://github.com/<your-username>/Ecommerce-Analysis.git
    cd Ecommerce-Analysis
-```
+````
 
 2. **Download the dataset** from the [Google Drive link](https://drive.google.com/drive/folders/129lQLqWlkeAyD1Zr8MXJwohelMQ9UUei?usp=drive_link)
    and place all CSV files in your local project folder.
@@ -81,6 +92,14 @@ The project performs the following steps:
 5. **Open and run the Colab notebook** (`ec_analysis_d.ipynb`) or refer to the included PDF for all queries and visualizations.
 
 ---
+
+```
+
+---
+
+💡 After pasting, click **“Commit changes”** → refresh the README view.  
+It’ll render perfectly — bold text, code blocks, and spacing all aligned 🎯
+```
 
 ## 📈 Key Analyses & Insights
 
