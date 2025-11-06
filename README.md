@@ -95,12 +95,6 @@ To summarize clearly:
 
 ```
 
----
-
-💡 After pasting, click **“Commit changes”** → refresh the README view.  
-It’ll render perfectly — bold text, code blocks, and spacing all aligned 🎯
-```
-
 ## 📈 Key Analyses & Insights
 
 * 🧾 **Orders per Year:** Found 45,101 unique orders placed in 2017.
