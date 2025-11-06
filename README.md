@@ -1,3 +1,6 @@
+---
+
+````markdown
 # 🛍️ E-Commerce Data Analysis
 
 ### 📊 Personal Data Analytics Project — Megha Rajeev
@@ -25,8 +28,8 @@ The dataset includes:
 ## 🧠 Project Overview
 The dataset represents an e-commerce platform’s transactional data — including orders, payments, customers, and product information.  
 The project performs the following steps:
-1. Load CSV files into a MySQL database using a Python script.
-2. Execute SQL queries for analytical insights.
+1. Load CSV files into a MySQL database using a Python script.  
+2. Execute SQL queries for analytical insights.  
 3. Visualize results using Matplotlib and Seaborn.
 
 ---
@@ -37,6 +40,7 @@ The project performs the following steps:
 |------|--------------|
 | **csvtosql.py** | Python script that automatically creates MySQL tables and imports data from CSV files. |
 | **ec_analysis_d.ipynb** | Jupyter/Colab notebook performing SQL analysis, visualizations, and insights generation. |
+| **ec_analysis_d.ipynb - Colab.pdf** | PDF export of the notebook for quick reference. |
 | **README.md** | Project documentation. |
 
 ---
@@ -50,7 +54,6 @@ The project performs the following steps:
 
 ---
 
-````markdown
 ## ⚙️ How to Run the Project
 
 1. **Clone this repository:**
@@ -83,8 +86,6 @@ The project performs the following steps:
 
 ---
 
-```
----
 ## 📈 Key Analyses & Insights
 
 * 🧾 **Orders per Year:** Found 45,101 unique orders placed in 2017.
@@ -92,19 +93,18 @@ The project performs the following steps:
 * 💳 **Installment Payments:** ~99.9% of transactions were paid in installments.
 * 🌎 **Customer Distribution:** Highest number of customers from São Paulo and Minas Gerais.
 * 📆 **Monthly Trends:** Sales peaked between May and November 2017.
-* 🔗 **Correlation Study:** Weak negative correlation (≈ –0.10) between product price and frequency of purchase.
+* 🔗 **Correlation Study:** Weak negative correlation (≈ –0.10) between product price and purchase frequency.
 * 🏅 **Top Sellers:** Ranked by total revenue generated.
 
 ---
 
 ## 📊 Sample Visualizations
 
-| Metric | Example Visualization |
-|---------|------------------------|
+| Metric                      | Example Visualization                             |
+| --------------------------- | ------------------------------------------------- |
 | **Customer Count by State** | ![Customers by State](Customers%20by%20State.png) |
-| **Orders per Month (2018)** | ![Orders per Month](Orders%20per%20Month.png) |
-| **Revenue by Category** | ![Category Sales](Category%20Sales.png) |
-
+| **Orders per Month (2018)** | ![Orders per Month](Orders%20per%20Month.png)     |
+| **Revenue by Category**     | ![Category Sales](Category%20Sales.png)           |
 
 ---
 
@@ -129,3 +129,7 @@ The project performs the following steps:
 ⭐ *If you found this project insightful, please give it a star on GitHub!* ⭐
 
 ```
+
+---
+
+
