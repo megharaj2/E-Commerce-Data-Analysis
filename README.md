@@ -96,13 +96,12 @@ The project performs the following steps:
 
 ## 📊 Sample Visualizations
 
-*(Add plots or screenshots to a `/results` folder and link them here)*
+| Metric | Example Visualization |
+|---------|------------------------|
+| **Customer Count by State** | ![Customers by State](Customers%20by%20State.png) |
+| **Orders per Month (2018)** | ![Orders per Month](Orders%20per%20Month.png) |
+| **Revenue by Category** | ![Category Sales](Category%20Sales.png) |
 
-| Metric                  | Example Visualization                                 |
-| ----------------------- | ----------------------------------------------------- |
-| Customer Count by State | ![Customers by State](results/customers_by_state.png) |
-| Orders per Month (2018) | ![Orders per Month](results/orders_by_month.png)      |
-| Revenue by Category     | ![Category Sales](results/category_sales.png)         |
 
 ---
 
