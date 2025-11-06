@@ -124,8 +124,3 @@ The project performs the following steps:
 ---
 
 ⭐ *If you found this project insightful, please give it a star on GitHub!* ⭐
-
-```
-
-
-
