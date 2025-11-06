@@ -58,7 +58,6 @@ The project performs the following steps:
    ```bash
    git clone https://github.com/<your-username>/Ecommerce-Analysis.git
    cd Ecommerce-Analysis
-````
 
 2. **Download the dataset** from the [Google Drive link](https://drive.google.com/drive/folders/129lQLqWlkeAyD1Zr8MXJwohelMQ9UUei?usp=drive_link)
    and place all CSV files in your local project folder.
