@@ -36,7 +36,7 @@ The project performs the following steps:
 | File | Description |
 |------|--------------|
 | **csvtosql.py** | Python script that automatically creates MySQL tables and imports data from CSV files. |
-| **ec_analysis_d.ipynb - Colab.pdf** | Exported Colab notebook showing all SQL queries, analysis, and plots. |
+| **ec_analysis_d.ipynb** | Jupyter/Colab notebook performing SQL analysis, visualizations, and insights generation. |
 | **README.md** | Project documentation. |
 
 ---
@@ -56,7 +56,7 @@ The project performs the following steps:
    ```bash
    git clone https://github.com/<your-username>/Ecommerce-Analysis.git
    cd Ecommerce-Analysis
-````
+```
 
 2. **Download the dataset** from the [Google Drive link](https://drive.google.com/drive/folders/129lQLqWlkeAyD1Zr8MXJwohelMQ9UUei?usp=drive_link)
    and place all CSV files in your local project folder.
