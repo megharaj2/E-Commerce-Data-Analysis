@@ -84,7 +84,7 @@ The project performs the following steps:
 ---
 
 ```
-
+---
 ## 📈 Key Analyses & Insights
 
 * 🧾 **Orders per Year:** Found 45,101 unique orders placed in 2017.
